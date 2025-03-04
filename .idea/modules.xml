@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/IDE LLD/ATMSystem/ATMSystem.iml" filepath="$PROJECT_DIR$/IDE LLD/ATMSystem/ATMSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BehavioralPattern/BehavioralPattern.iml" filepath="$PROJECT_DIR$/BehavioralPattern/BehavioralPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IDE LLD/Car Rental System/Car Rental System.iml" filepath="$PROJECT_DIR$/IDE LLD/Car Rental System/Car Rental System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IDE LLD/Chess/Chess.iml" filepath="$PROJECT_DIR$/IDE LLD/Chess/Chess.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IDE LLD/CoffeeVendingMachine/CoffeeVendingMachine.iml" filepath="$PROJECT_DIR$/IDE LLD/CoffeeVendingMachine/CoffeeVendingMachine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CreationalDesignPattern/CreationalDesignPattern.iml" filepath="$PROJECT_DIR$/CreationalDesignPattern/CreationalDesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IDE LLD/ElevatorSystem/ElevatorSystem.iml" filepath="$PROJECT_DIR$/IDE LLD/ElevatorSystem/ElevatorSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LLD/LLD.iml" filepath="$PROJECT_DIR$/LLD/LLD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IDE LLD/Parkingsystem/Parkingsystem.iml" filepath="$PROJECT_DIR$/IDE LLD/Parkingsystem/Parkingsystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IDE LLD/PubSubSystem/PubSubSystem.iml" filepath="$PROJECT_DIR$/IDE LLD/PubSubSystem/PubSubSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IDE LLD/RestrauntManagement/RestrauntManagement.iml" filepath="$PROJECT_DIR$/IDE LLD/RestrauntManagement/RestrauntManagement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IDE LLD/StackOverFlow/StackOverFlow.iml" filepath="$PROJECT_DIR$/IDE LLD/StackOverFlow/StackOverFlow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StructuralPattern/StructuralPattern.iml" filepath="$PROJECT_DIR$/StructuralPattern/StructuralPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SystemDesignLLD.iml" filepath="$PROJECT_DIR$/SystemDesignLLD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IDE LLD/TicTacToe/TicTacToe.iml" filepath="$PROJECT_DIR$/IDE LLD/TicTacToe/TicTacToe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IDE LLD/TrafficSystem/TrafficSystem.iml" filepath="$PROJECT_DIR$/IDE LLD/TrafficSystem/TrafficSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IDE LLD/VendingMachine/VendingMachine.iml" filepath="$PROJECT_DIR$/IDE LLD/VendingMachine/VendingMachine.iml" />
+    </modules>
+  </component>
+</project>
